@@ -5,7 +5,7 @@ npm install or npm i
 
 for running the app----->
 
-npm run dev
+npm start
 
 
 ## Tech stack
