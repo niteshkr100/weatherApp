@@ -9,9 +9,9 @@ npm run dev
 
 
 ## Tech stack
--React js
--javascript
--Css
--Html
+##-React js
+##-javascript
+##-Css
+##-Html
 
  
